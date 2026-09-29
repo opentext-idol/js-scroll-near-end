@@ -1,0 +1,11 @@
+{
+  "name": "scroll-near-end",
+  "repository": "https://github.com/opentext-idol/js-scroll-near-end",
+  "version": "1.0.0",
+  "private": true,
+  "engines": { "node": ">=20" },
+  "dependencies": {
+    "jquery": "^3.7.1"
+  },
+  "devDependencies": { }
+}
